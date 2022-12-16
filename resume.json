@@ -1,0 +1,214 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Anthony Mény",
+    "label": "Étudiant (Campus The Land EPSI)",
+    "image": "",
+    "email": "anthony.meny.contact@gmail.com",
+    "phone": "0642931669",
+    "url": "https://github.com/VentoAureo230",
+    "summary": "Actuellement étudiant à l'EPSI de Rennes, je recherche des expériences dans le domaine de l'informatique. Organisé et sérieux, j'ai appris de mes précédents emplois/stages à travailler en autonomie, en télétravail ou en groupe. Aujourd'hui ce qui m'intéresse, c'est donner du sens à ce que je fais, en accord avec mes valeurs et mes envies.",
+    "location": {
+      "countryCode": "FR",
+      "address": "4 rue Phillipe Lebon, 35000 Rennes"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anthony-mény-7ba4b6151",
+        "url": "https://www.linkedin.com/in/anthony-mény-7ba4b6151/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "My Reso+",
+      "position": "Développeur web",
+      "startDate": "2022-04-30",
+      "endDate": "2022-06-30",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/my-reso/",
+      "location": "Rennes, Bretagne, France"
+    },
+    {
+      "name": "FRANCIAFLEX",
+      "position": "Manutention ",
+      "startDate": "2020-10-31",
+      "endDate": "2021-08-31",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/franciaflex/",
+      "location": "Le Rheu, Bretagne, France"
+    },
+    {
+      "name": "ALU RENNAIS",
+      "position": "Manutentionnaire",
+      "startDate": "2020-01-31",
+      "endDate": "2020-04-30",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/alu-rennais/",
+      "location": "Rennes, Bretagne, France"
+    },
+    {
+      "name": "AMC ",
+      "position": "Employé de production",
+      "startDate": "2019-08-31",
+      "endDate": "2019-12-31",
+      "highlights": [],
+      "url": "",
+      "location": "Laillé, Bretagne, France"
+    },
+    {
+      "name": "La Mutuelle Des Etudiants (LMDE)",
+      "position": "Employé volontaire",
+      "startDate": "2018-09-30",
+      "endDate": "2019-07-31",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/lmde/",
+      "location": "Rennes, Bretagne, France"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "EPSI - L'école d'ingénierie informatique",
+      "area": "Informatique",
+      "studyType": "Licence",
+      "startDate": "2021-09-30",
+      "endDate": "2026-06-30",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "C#",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Sass",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Optimisation pour les moteurs de recherche (SEO)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "WordPress",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CMS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Squarespace",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Bureau à distance",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Autonomie",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Parler en public",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Communication",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Bénévolat",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Formation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Sens de l’organisation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Esprit d’équipe",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Anglais",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Français",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Réactivité",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PHP",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "fr",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "eng",
+      "fluency": "B1"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}

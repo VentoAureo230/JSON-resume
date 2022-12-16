@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jsonresume-theme-sfy": "^1.0.4",
+    "resumed": "^1.0.3"
+  }
+}
